@@ -1,0 +1,49 @@
+@import "bootstrap";
+
+
+/*===================== drag =====================*/
+.drag_demo {
+  h1 {
+    padding: .2em;
+    margin: 0;
+    font-size: 20px;
+  }
+
+  #products {
+    width: 280px;
+    margin-left: 10em;
+    margin-top: 10px;
+    ul { 
+      margin-bottom: 24px;
+      li {
+        margin-bottom: 2px;
+      }
+    }
+  }
+
+  #cart {
+    width: 280px;
+    margin-top: 1em; 
+    margin-left: 10em;
+    ol { 
+      li {
+        margin-bottom: 2px;
+      }
+    }
+  }
+
+  #rubish {
+    width: 280px;
+    margin-top: 1em; 
+    margin-left: 10em;
+    ul { 
+      li {
+        margin-bottom: 2px;
+      }
+    }
+  }
+
+  .test {
+    background-color: black;
+  }
+}
